@@ -1,25 +1,17 @@
-
-body{
-    overflow: hidden;
-}
-.main-div{
-    width: 350px;
-    padding-top: 300px;
+.main-div {
+  width: 350px;
 }
 
-.center{
-    width:100%; 
-    max-width:350px;
-   
-   
+.center {
+  width: 100%;
+  max-width: 350px;
 }
 
 .main-div mat-card {
-    padding: 0;
+  padding: 0;
 }
 
-.login-form{
-    padding: 20px;
-    width: 100%;
+.login-form {
+  padding: 20px;
+  width: 100%;
 }
-
